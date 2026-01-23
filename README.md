@@ -1,3 +1,3 @@
-# this is my portfolio 
+#  My Portfolio 
 using React + vite ,  javascript , CSS 
 
